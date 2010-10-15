@@ -1,0 +1,5 @@
+redis-py (2.0.1-1) zelazny; urgency=low
+
+  * Initial release.
+
+ -- Mikhail Gusarov <dottedmag@dottedmag.net>  Sat, 16 Oct 2010 01:56:03 +0400

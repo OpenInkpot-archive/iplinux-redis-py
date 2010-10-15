@@ -1,0 +1,15 @@
+Source: redis-py
+Section: host/tools
+Priority: optional
+Maintainer: Mikhail Gusarov <dottedmag@dottedmag.net>
+Build-Depends: debhelper (>= 7), python-dev (>= 2.3.5-11)
+Build-Depends-Indep: python-support
+Standards-Version: 3.8.3
+
+Package: python-redis
+Architecture: all
+Depends: ${python:Depends}, ${misc:Depends}
+Description: Python Redis client library
+ Python library for accessing Redis databases.
+
+
